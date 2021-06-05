@@ -1,4 +1,4 @@
-### Hi there 👋
+### As-salamu alaykum,  I'm Md Mostafizur Rahman 👋
 
 <!--
 **mostafiz9900/mostafiz9900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a  Developer, and Teacher!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
