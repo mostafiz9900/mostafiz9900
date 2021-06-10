@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
